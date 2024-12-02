@@ -1,4 +1,4 @@
-# CryptedVaultYT
+# CryptedVault
 ## Crypted IPFS Vault using MERN Stack and Blockchain
 
 ### Overview
@@ -25,7 +25,7 @@ This project implements a crypted IPFS vault using the MERN (MongoDB, Express.js
 Clone the repository from GitHub using the following command:
 
 ```bash
-git clone https://github.com/kshitijofficial/cryptedVaultYT.git
+git clone https://github.com/Sagar-Puniyani/CryptedVault
 ```
 
 ### Step 2: Setup Server Environment Variables
@@ -33,7 +33,7 @@ git clone https://github.com/kshitijofficial/cryptedVaultYT.git
 Navigate to the `server` directory:
 
 ```bash
-cd cryptedVaultYT/server
+cd cryptedVault/server
 ```
 
 Create a new `.env` file in the `server` directory with the following entries. These environment variables will be used in `config/serverConfig.js`.
@@ -74,12 +74,8 @@ npm run dev
 
 Now, you should be able to access the CryptedVaultYT application locally.
 
-### Additional Link
+DEMO of APP
+![image](https://github.com/user-attachments/assets/317d16f2-9493-47d7-820e-8d3a38b7fdfd)
 
-You can also visit [sepolia-faucet.pk910.de](https://sepolia-faucet.pk910.de/) for more sepolia testnet ether.
-
----
-
-For any queries contact me at [twitter](https://twitter.com/KshitijWeb3)
 
 
